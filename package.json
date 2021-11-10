@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha test/.setup.js test/**/*-test.js",
     "build": "rimraf dist/ && babel src/ --out-dir dist",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
