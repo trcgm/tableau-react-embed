@@ -34,7 +34,7 @@
     "es6-promise": "^4.0.5",
     "prop-types": "^15.6.0",
     "shallowequal": "^0.2.2",
-    "tableau-api": "^2.2.3",
+    "tableau-api": "github:trcgm/tableau-api",
     "url": "^0.11.0"
   },
   "devDependencies": {
